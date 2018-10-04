@@ -1,0 +1,11 @@
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\bin\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.deps.json
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\bin\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.runtimeconfig.json
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\bin\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.runtimeconfig.dev.json
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\bin\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.dll
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\bin\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.pdb
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\obj\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.csproj.CoreCompileInputs.cache
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\obj\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.AssemblyInfoInputs.cache
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\obj\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.AssemblyInfo.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\obj\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.dll
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\obj\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.pdb
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample.MobileAppService\obj\Debug\netcoreapp2.0\DotnetConfSample.MobileAppService.csprojAssemblyReference.cache

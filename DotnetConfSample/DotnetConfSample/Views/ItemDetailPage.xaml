@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DotnetConfSample.Views.ItemDetailPage"
+             Title="{Binding Title}">
+    <StackLayout Spacing="20" Padding="15">
+        <Label Text="Text:" FontSize="Medium" />
+        <Label Text="{Binding Item.Text}" FontSize="Small"/>
+        <Label Text="Description:" FontSize="Medium" />
+        <Label Text="{Binding Item.Description}" FontSize="Small"/>
+
+        <!--<Image Source="xamarin_logo.png" Aspect="AspectFill" WidthRequest="75" HeightRequest="75"></Image>
+        <Image Source="xamarin_logo.png" Aspect="AspectFit" WidthRequest="75" HeightRequest="75"></Image>
+        <Image Source="xamarin_logo.png" Aspect="Fill" WidthRequest="75" HeightRequest="75"></Image>-->
+
+        <Entry x:Name="MyName" Placeholder="Veuillez saisir votre nom ici"></Entry>
+
+        <Button Text="Enregistrer" x:Name="Save" Clicked="Save_OnClicked"></Button>
+
+        <FlexLayout Direction="Column"
+                    AlignItems="Center"
+                    JustifyContent="SpaceEvenly">
+
+            <Label Text="FlexLayout in Action"
+                   FontSize="Large" />
+
+            <Image Source="xamarin_logo.png" />
+
+            <Button Text="Do-Nothing Button" />
+
+            <Label Text="Another Label" />
+        </FlexLayout>
+    </StackLayout>
+</ContentPage>

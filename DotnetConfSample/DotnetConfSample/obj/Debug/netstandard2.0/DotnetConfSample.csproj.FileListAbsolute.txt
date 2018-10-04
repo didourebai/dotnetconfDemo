@@ -1,0 +1,16 @@
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\bin\Debug\netstandard2.0\DotnetConfSample.deps.json
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\bin\Debug\netstandard2.0\DotnetConfSample.dll
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\bin\Debug\netstandard2.0\DotnetConfSample.pdb
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\DotnetConfSample.csprojAssemblyReference.cache
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\DotnetConfSample.csproj.CoreCompileInputs.cache
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\DotnetConfSample.AssemblyInfoInputs.cache
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\DotnetConfSample.AssemblyInfo.cs
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\DotnetConfSample.dll
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\DotnetConfSample.pdb
+E:\DotNetConfQuebec\DotnetConfSample\DotnetConfSample\DotnetConfSample\obj\Debug\netstandard2.0\XamlC.stamp
